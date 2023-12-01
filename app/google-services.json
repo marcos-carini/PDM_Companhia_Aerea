@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563091914988",
+    "project_id": "pdm-comissao-de-voo",
+    "storage_bucket": "pdm-comissao-de-voo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563091914988:android:33319aa0df43fb2ceda5c9",
+        "android_client_info": {
+          "package_name": "br.com.ifsp.comissao_voo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw4mSr8BfQ1eZFeeVwXYLhYO1jYr8Uxxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
